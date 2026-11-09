@@ -73,13 +73,13 @@ EXPERIENCE = [
         "org": "Traba ( Money )",
         "title": "Software Engineer II",
         "date": "Mar 2026 - Present",
-        "loc": "New York, NY - Remote",
+        "loc": "New York, NY",
         "tech": "TypeScript, GCP, Stripe, Zeal",
         "bullets": [
-            "Enabled Instant Pay for W2 workers, expanding earned wage access to a new worker segment",
-            "Rebuilt the Clearing House from scratch, improving payment processing reliability and scalability",
-            "Built a unified billing contacts experience with full role-based permissions across the platform",
-            "Integrated Zeal and Stripe APIs to streamline payroll disbursement and payment workflows",
+            "Enabled Instant Pay for W2 workers, extending earned wage access to all 400K+ workers on the platform",
+            "Rebuilt the Clearing House from scratch, improving reliability for ~$400K/week in payment volume",
+            "Built unified billing contacts with role-based permissions for 20K+ contacts across thousands of clients",
+            "Integrated Zeal and Stripe APIs to streamline payroll disbursement, saving $1M+ annually",
         ],
     },
     {

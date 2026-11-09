@@ -76,7 +76,7 @@ EXPERIENCE = [
         "loc": "New York, NY",
         "tech": "TypeScript, GCP, Stripe, Zeal",
         "bullets": [
-            "Enabled Instant Pay for W2 workers, extending earned wage access to all 400K+ workers on the platform",
+            "Enabled Instant Pay for W2 workers, extending earned wage access to all workers on a 400K+ worker platform",
             "Rebuilt the Clearing House from scratch, improving reliability for ~$400K/week in payment volume",
             "Built unified billing contacts with role-based permissions for 20K+ contacts across thousands of clients",
             "Integrated Zeal and Stripe APIs to streamline payroll disbursement, saving $1M+ annually",
